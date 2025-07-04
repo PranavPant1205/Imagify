@@ -30,5 +30,5 @@ This project helped me learn and implement:
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB |
 | **Authentication** | JSON Web Tokens (JWT) |
-| **Payments** | Razorpa y|
+| **Payments** | Razorpay|
 
